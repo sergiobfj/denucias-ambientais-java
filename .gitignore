@@ -1,0 +1,13 @@
+# Compilados Java
+*.class
+
+# Build do Maven
+target/
+
+# Banco de dados SQLite
+*.db
+
+# IDEs
+.idea/
+.vscode/
+*.iml
