@@ -1,8 +1,12 @@
 # Compilados Java
 *.class
 
-# Build do Maven
+# Compilação
+out/
 target/
+
+# Arquivos temporários de análise e verificação
+tmp/
 
 # Banco de dados SQLite
 *.db
